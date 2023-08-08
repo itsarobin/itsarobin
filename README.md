@@ -7,7 +7,7 @@
   - 🎵 Open hardware and/or novel musical instrustuments
   - 🖍️ Creative / Artistic endeavors
 - 💬 Ask me about
-  - 🐦 Drones
+  - 🐦  Drones
   - 🌿 Plants
   - 🍳 Cooking
 - 📫 How to reach me: robin.fisher.co@gmail.com
